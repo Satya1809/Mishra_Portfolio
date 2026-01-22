@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Calculator",
+    "desc": "Built a responsive and interactive calculator using HTML, CSS, and JavaScript, delivering accurate real-time arithmetic with a clean, user-friendly interface.",
+    "image": "calculator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://satya1809.github.io/Calculator/",
+      "code": "https://github.com/Satya1809/Calculator"
+    }
+  },
+  {
+    "name": "Language Translator",
+    "desc": "Developed a web-based language translator using HTML, CSS, and JavaScript, enabling real-time multilingual translation with a clean, responsive user interface.",
+    "image": "translator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://satya1809.github.io/Language-Translator/",
+      "code": "https://github.com/Satya1809/Language-Translator"
+    }
+  },
+  {
+    "name": "Weather Website",
+    "desc": "Designed and developed a responsive weather website using HTML, CSS, and JavaScript, providing real-time weather updates with a clean and intuitive user interface.",
+    "image": "weather",
+    "category": "basicweb",
+    "links": {
+      "view": "https://satya1809.github.io/Weather_App/",
+      "code": "https://github.com/Satya1809/Weather_App"
+    }
+  },
+  {
+    "name": "Sudko Game Website",
+    "desc": "Designed and developed a Sudoku game website using HTML, CSS, and JavaScript, featuring interactive gameplay, real-time validation, and a clean, responsive user interface.",
+    "image": "sudko",
+    "category": "basicweb",
+    "links": {
+      "view": "https://satya1809.github.io/Sudoku/",
+      "code": "https://github.com/Satya1809/Sudoku"
+    }
+  },
+  {
+    "name": "Tic Tac Toe",
+    "desc": "Designed and developed a Tic Tac Toe game using HTML, CSS, and JavaScript, featuring interactive gameplay logic, real-time win detection, and a clean, responsive user interface.",
+    "image": "tictac",
+    "category": "basicweb",
+    "links": {
+      "view": "https://satya1809.github.io/TIC_TAC_TOE/",
+      "code": "https://github.com/Satya1809/TIC_TAC_TOE"
+    }
+  },
+  {
+    "name": "Image Search Engine",
+    "desc": "Developed a custom image search engine using HTML, CSS, and JavaScript, integrating API-based search functionality with a polished, responsive interface for dynamic image discovery.",
+    "image": "engine",
+    "category": "basicweb",
+    "links": {
+      "view": "https://satya1809.github.io/Image_Search_Engine/",
+      "code": "https://github.com/Satya1809/Image_Search_Engine"
+    }
+  },
+  {
+    "name": "Drum Kit ",
+    "desc": "Designed and developed an interactive drum kit using HTML, CSS, and JavaScript, delivering responsive sound effects and real-time user interaction through keyboard and click events.",
+    "image": "drumkit",
+    "category": "basicweb",
+    "links": {
+      "view": "https://satya1809.github.io/Drum_-kit/",
+      "code": "https://github.com/Satya1809/Drum_-kit"
+    }
+  },
+  {
+    "name": "Currency Converter",
+    "desc": "Engineered a professional-grade currency converter using HTML, CSS, and JavaScript, delivering accurate real-time exchange rate calculations through a sleek, responsive interface.",
+    "image": "currency",
+    "category": "basicweb",
+    "links": {
+      "view": "https://satya1809.github.io/Currency_Converter/",
+      "code": "https://github.com/Satya1809/Currency_Converter"
+    }
+  },
+  {
+    "name": "Analog Clock",
+    "desc": "Developed an interactive analog clock using HTML, CSS, and JavaScript, delivering real-time time updates with smooth animations and a clean, responsive design.",
+    "image": "clock",
+    "category": "basicweb",
+    "links": {
+      "view": "https://satya1809.github.io/Analog_Clock/",
+      "code": "https://github.com/Satya1809/Analog_Clock"
+    }
+  },
+  {
+    "name": "Blog Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "blog",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Satya1809/Blog_Website",
+      "code": "https://github.com/Satya1809/Blog_Website"
+    }
+  },
+  {
+    "name": "Text To Speech Converter",
+    "desc": "Developed a text-to-speech converter using HTML, CSS, and JavaScript, enabling seamless voice output with a clean, responsive, and user-friendly interface.",
+    "image": "converter",
+    "category": "basicweb",
+    "links": {
+      "view": "https://satya1809.github.io/TextToSpeech_Converter/",
+      "code": "https://github.com/Satya1809/TextToSpeech_Converter"
+    }
+  }
+]
